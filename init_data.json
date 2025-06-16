@@ -1,0 +1,48 @@
+{
+  "data": {
+    "1": {
+      "id": 1,
+      "name": "King Size Bed",
+      "price": "300",
+      "img": "/img/bed.jpg"
+    },
+    "2": {
+      "id": 2,
+      "name": "Comfy Slippers",
+      "price": "15",
+      "img": "/img/slippers.jpg"
+    },
+    "3": {
+      "id": 3,
+      "name": "CD Rack",
+      "price": "100",
+      "img": "/img/rack.jpg"
+    },
+    "4": {
+      "id": 4,
+      "name": "Glow Stick Bundle",
+      "price": "10",
+      "img": "/img/sticks.jpg"
+    },
+    "5": {
+      "id": 5,
+      "name": "Cookie Jar",
+      "price": "25",
+      "img": "/img/cookies.jpg"
+    },
+    "6": {
+      "name": "Men's Watch",
+      "price": 12,
+      "img": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1999&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "This is free item.",
+      "id": 6
+    },
+    "7": {
+      "name": "Rayben Glasses",
+      "price": 120,
+      "img": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "This product is for ideal persons.",
+      "id": 7
+    }
+  }
+}
